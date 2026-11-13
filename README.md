@@ -8,12 +8,12 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Base model](https://img.shields.io/badge/base-SigLIP%202-4285F4?logo=google&logoColor=white)](https://huggingface.co/google/siglip2-base-patch16-224)
-[![Fonts](https://img.shields.io/badge/fonts-1%2C276-brightgreen)](#results)
+[![Fonts](https://img.shields.io/badge/fonts-1%2C279-brightgreen)](#results)
 [![Top-1](https://img.shields.io/badge/top--1-93.3%25-brightgreen)](#results)
 
 한글 텍스트 한 줄 이미지에서 사용된 무료 한글 폰트를 식별하는 모델입니다.
 
-- 무료 한글 폰트 1,276종 식별 (1,393 패밀리, [Fonts List](FONTS_LIST.md))
+- 무료 한글 폰트 1,279종 식별 (1,393 패밀리, [Fonts List](FONTS_LIST.md))
 - 외곽선, 그림자, 입체, 그라데이션, 장평 변형, 부분 가림, 저해상도·압축 이미지 대응
 - 글자 이미지 하나로 추론
 - 폰트일 확률 출력
@@ -69,7 +69,7 @@ model.predict(Image.open("line.png"), top=5)
 
 ## Limitations
 
-- 학습한 1,276종 밖의 폰트는 가장 비슷한 폰트로 답합니다. 이 경우 확률이 낮게 나옵니다.
+- 학습한 1,279종 밖의 폰트는 가장 비슷한 폰트로 답합니다. 이 경우 확률이 낮게 나옵니다.
 - 모든 수치는 합성 이미지 기준입니다.
 - 한글 위주이며, 영문·숫자만 있는 줄은 평가하지 않았습니다.
 - 모델은 폰트 이름만을 제공합니다. 폰트의 사용 가능 여부는 각 라이선스를 확인하세요.
