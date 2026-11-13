@@ -1,4 +1,4 @@
-# 지원 폰트 목록 (Supported fonts)
+# Fonts List
 
 hangul-font-finder가 식별하는 무료 한글 폰트 1,276종입니다. 같은 디자인의 다른 판(OTF/TTF, 영문/한글 이름, Google Fonts 판)은 한 줄에 함께 적었습니다.
 
