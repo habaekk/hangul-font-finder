@@ -1,7 +1,15 @@
 # hangul-font-finder
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Model-prenny%2Fhangul--font--finder-yellow)](https://huggingface.co/prenny/hangul-font-finder)
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Fprenny%2Fhangul-font-finder&query=%24.downloads&label=%F0%9F%A4%97%20downloads&color=yellow)](https://huggingface.co/prenny/hangul-font-finder)
+[![GitHub stars](https://img.shields.io/github/stars/habaekk/hangul-font-finder?style=flat&logo=github)](https://github.com/habaekk/hangul-font-finder/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+<br>
+[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Base model](https://img.shields.io/badge/base-SigLIP%202-4285F4?logo=google&logoColor=white)](https://huggingface.co/google/siglip2-base-patch16-224)
+[![Fonts](https://img.shields.io/badge/fonts-1%2C279-brightgreen)](#results)
+[![Top-1](https://img.shields.io/badge/top--1-93.3%25-brightgreen)](#results)
 
 한글 텍스트 한 줄 이미지에서 사용된 무료 한글 폰트를 식별하는 모델입니다.
 
