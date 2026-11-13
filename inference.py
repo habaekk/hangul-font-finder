@@ -92,7 +92,10 @@ class FontIdentifier:
     @torch.inference_mode()
     def probabilities(self, images) -> np.ndarray:
         """Calibrated probabilities over font groups (see groups.json), one row per image."""
-        return self.class_probabilities(images) @ self._to_group
+        p = self.class_probabilities(images) @ self._to_group
+        # A few raw classes belong to no group (fonts withdrawn from the answer list);
+        # their share is spread over the remaining fonts.
+        return p / p.sum(1, keepdims=True)
 
     @torch.inference_mode()
     def class_probabilities(self, images) -> np.ndarray:
