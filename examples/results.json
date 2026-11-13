@@ -1,0 +1,189 @@
+[
+ {
+  "file": "example-1.png",
+  "drawn_with": "Black Han Sans",
+  "top3": [
+   {
+    "font": "Black Han Sans",
+    "same_shape_fonts": [
+     "Black Han Sans"
+    ],
+    "korean_name": "검은고딕",
+    "probability": 0.9963
+   },
+   {
+    "font": "Gasoek One",
+    "same_shape_fonts": [
+     "Gasoek One"
+    ],
+    "korean_name": null,
+    "probability": 0.0001
+   },
+   {
+    "font": "WAGURI TTF",
+    "same_shape_fonts": [
+     "WAGURI TTF"
+    ],
+    "korean_name": "와구리체 TTF",
+    "probability": 0.0001
+   }
+  ]
+ },
+ {
+  "file": "example-2.png",
+  "drawn_with": "Jua",
+  "top3": [
+   {
+    "font": "Jua",
+    "same_shape_fonts": [
+     "BM JUA_TTF",
+     "Jua"
+    ],
+    "korean_name": "배달의민족 주아",
+    "probability": 0.9955
+   },
+   {
+    "font": "Hakgyoansim Gongryongal R",
+    "same_shape_fonts": [
+     "Hakgyoansim Gongryongal R"
+    ],
+    "korean_name": "학교안심 공룡알 R",
+    "probability": 0.0002
+   },
+   {
+    "font": "KCC-Ganpan",
+    "same_shape_fonts": [
+     "KCC-Ganpan"
+    ],
+    "korean_name": "KCC-간판체",
+    "probability": 0.0001
+   }
+  ]
+ },
+ {
+  "file": "example-3.png",
+  "drawn_with": "Do Hyeon",
+  "top3": [
+   {
+    "font": "Do Hyeon",
+    "same_shape_fonts": [
+     "BM DoHyeon",
+     "Do Hyeon"
+    ],
+    "korean_name": "배달의민족 도현",
+    "probability": 0.9935
+   },
+   {
+    "font": "Cafe24 Ohsquare",
+    "same_shape_fonts": [
+     "Cafe24 Ohsquare"
+    ],
+    "korean_name": "카페24 아네모네",
+    "probability": 0.0037
+   },
+   {
+    "font": "Y Spotlight",
+    "same_shape_fonts": [
+     "Y Spotlight"
+    ],
+    "korean_name": "Y 너만을 비춤체",
+    "probability": 0.0001
+   }
+  ]
+ },
+ {
+  "file": "example-4.png",
+  "drawn_with": "Gaegu",
+  "top3": [
+   {
+    "font": "Gaegu",
+    "same_shape_fonts": [
+     "Gaegu",
+     "JGaegujaengyi-Bold-KO",
+     "JGaegujaengyi-Medium-KO"
+    ],
+    "korean_name": "개구쟁이",
+    "probability": 0.9971
+   },
+   {
+    "font": "JGaegujaengyi-Light-KO",
+    "same_shape_fonts": [
+     "JGaegujaengyi-Light-KO"
+    ],
+    "korean_name": null,
+    "probability": 0.0007
+   },
+   {
+    "font": "Sandoll MiSaeng",
+    "same_shape_fonts": [
+     "Sandoll MiSaeng"
+    ],
+    "korean_name": "Sandoll 미생",
+    "probability": 0.0
+   }
+  ]
+ },
+ {
+  "file": "example-5.png",
+  "drawn_with": "Song Myung",
+  "top3": [
+   {
+    "font": "Song Myung",
+    "same_shape_fonts": [
+     "JSongMyung-Regular-KO",
+     "Song Myung"
+    ],
+    "korean_name": "송명",
+    "probability": 0.997
+   },
+   {
+    "font": "SunBatang-Bold",
+    "same_shape_fonts": [
+     "SunBatang-Bold"
+    ],
+    "korean_name": null,
+    "probability": 0.0002
+   },
+   {
+    "font": "KoPubBatang",
+    "same_shape_fonts": [
+     "KoPubBatang",
+     "KoPubWorldBatang"
+    ],
+    "korean_name": "KoPub바탕체",
+    "probability": 0.0001
+   }
+  ]
+ },
+ {
+  "file": "example-6.png",
+  "drawn_with": "Yeon Sung",
+  "top3": [
+   {
+    "font": "Yeon Sung",
+    "same_shape_fonts": [
+     "BM YEONSUNG",
+     "Yeon Sung"
+    ],
+    "korean_name": "배달의민족 연성",
+    "probability": 0.9968
+   },
+   {
+    "font": "Deogon Princess",
+    "same_shape_fonts": [
+     "Deogon Princess"
+    ],
+    "korean_name": "덕온공주체",
+    "probability": 0.0001
+   },
+   {
+    "font": "조선궁서체",
+    "same_shape_fonts": [
+     "조선궁서체"
+    ],
+    "korean_name": null,
+    "probability": 0.0
+   }
+  ]
+ }
+]

@@ -1,0 +1,7 @@
+hangul-font-finder
+Copyright (c) 2026 hangul-font-finder authors. Released under the MIT License (see LICENSE).
+
+The model weights are fine-tuned from SigLIP 2 (google/siglip2-base-patch16-224),
+Copyright Google LLC, licensed under the Apache License, Version 2.0
+(see LICENSE-SIGLIP2-APACHE-2.0). The weights were modified by fine-tuning
+for Korean font identification and by adding a classification head.

@@ -1,0 +1,6 @@
+torch
+transformers>=4.49
+safetensors
+huggingface_hub
+pillow
+numpy
